@@ -20,6 +20,7 @@ Start adding validation to your code for smoother user experience
 
 Follow the instructions in `validation.py` to complete this challenge. 
 
+NOTE: Comment out or delete the calls to your functions-- the tests can't run with them!
 ---
 
 ## Summary
